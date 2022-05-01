@@ -1,4 +1,4 @@
-# Robotics-TU-Delft---Machine-Learning-Project-
+# Robotics TU Delft - Machine Learning Project
 - Course: Machine Learning for Robotics 
 - Programming Language: Python
 - Grade: 7.5
